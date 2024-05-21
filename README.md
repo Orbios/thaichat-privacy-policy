@@ -1,0 +1,1 @@
+# thaichat-privacy-policy
