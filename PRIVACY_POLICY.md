@@ -40,7 +40,7 @@ This Privacy Policy outlines how `ThaiChat` ("we," "us," or "our") collects, use
 
 5.1 You have the right to access, update, or delete your personal information stored in our app. You can exercise these rights by logging into your account and making the necessary changes.
 
-5.2 If you wish to delete your account permanently, please contact us at `orbios.agency@gmail.com`, and we will assist you with the process.
+5.2 If you wish to delete your account permanently, please contact us at **orbios.agency@gmail.com**, and we will assist you with the process.
 
 ### Children's Privacy:
 
@@ -51,6 +51,6 @@ This Privacy Policy outlines how `ThaiChat` ("we," "us," or "our") collects, use
 7.1 We reserve the right to update or modify this Privacy Policy at any time. We will notify you of any changes by posting the updated Privacy Policy within the app. Your continued use of the app after the changes are posted constitutes your acceptance of the revised Privacy Policy.
 
 Contact Us
-If you have any questions, concerns, or requests regarding this Privacy Policy or our privacy practices, please contact us at `orbios.agency@gmail.com`.
+If you have any questions, concerns, or requests regarding this Privacy Policy or our privacy practices, please contact us at **orbios.agency@gmail.com**.
 
 By using `ThaiChat` you acknowledge that you have read and understood this Privacy Policy and agree to its terms and conditions.
